@@ -1,0 +1,17 @@
+{
+  "subjects": [
+    {
+      "id": "someArticleId",
+      "type": "article",
+      "activities": [
+        {
+          "type": "click",
+          "past7daysCount": 21,
+          "past7daysUniqueCount": 8,
+          "past30daysCount": 100,
+          "past30daysUniqueCount": 43
+        }
+      ]
+    }
+  ]
+}

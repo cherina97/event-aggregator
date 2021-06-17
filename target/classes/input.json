@@ -1,0 +1,11 @@
+{
+  "id": "someId",
+  "userId": "someUserId",
+  "city": "Lviv",
+  "eventType": "click",
+  "timestamp": 123434,
+  "eventSubject": {
+    "type": "article",
+    "id": "someArticleId"
+  }
+}
